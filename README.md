@@ -9,3 +9,10 @@ The churn trend indicates a rising pattern in recent years, signaling increasing
 This page establishes the overall churn problem and sets the context for detailed diagnostics and retention analysis.
 
 <img width="1419" height="794" alt="Image" src="https://github.com/user-attachments/assets/cf12caed-7475-4a4e-88fa-e43ba19c169c" />
+Page - 2 Churn Diagnostics & Customers Segmentation. This page performs a detailed churn diagnosis using customer segmentation and behavioral metrics.
+Churn is analyzed across subscription plans, acquisition channels, cities, support resolution time, and issue types. User inactivity, engagement levels, and session behavior are also evaluated to identify early churn signals.
+The analysis shows higher churn among Basic and Standard plans, increased churn with longer support resolution times, and variation across acquisition channels and cities.
+These insights help identify operational and engagement-related drivers of churn that can be addressed through targeted interventions. 
+
+<img width="1412" height="793" alt="Image" src="https://github.com/user-attachments/assets/a201a3a0-8540-44da-a439-6c28a1d9bad1" />
+
