@@ -3,3 +3,9 @@ This project simulates a real-world analyst investigation at a subscription-base
 
 
 <img width="1339" height="796" alt="Image" src="https://github.com/user-attachments/assets/8a89096a-adbb-4abf-b909-fa7b57420fd9" />
+Exective Overview - This page provides an executive summary of customer churn and subscriber health for a fictional subscription-based streaming platform.
+Key KPIs highlight overall churn rate (52.03%), total and cancelled subscribers, acquisition reach, and churn trends from 2020 to 2025.
+The churn trend indicates a rising pattern in recent years, signaling increasing customer disengagement. Acquisition data shows Facebook Ads and Google Ads as the largest volume drivers, requiring deeper evaluation of retention quality.
+This page establishes the overall churn problem and sets the context for detailed diagnostics and retention analysis.
+
+<img width="1419" height="794" alt="Image" src="https://github.com/user-attachments/assets/cf12caed-7475-4a4e-88fa-e43ba19c169c" />
